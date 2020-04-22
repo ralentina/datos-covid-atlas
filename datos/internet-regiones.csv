@@ -1,0 +1,16 @@
+cir_sena,codregion,Region_1,NAME_1,CCA_1,num,Subtel17_total,Subtel17_fija,Subtel17_movil,Subtel17_fija_y_movil
+1,15,Región de Arica y Parinacota,Arica y Parinacota,XV,15,83,60.2,12.7,10.1
+2,1,Región de Tarapacá,Tarapacá,I,1,90.7,50.7,12.9,21.9
+3,2,Región de Antofagasta,Antofagasta,II,2,92.9,33.3,19.2,38.8
+4,3,Región de Atacama,Atacama,III,3,73.4,35.1,17.8,17.6
+5,4,Región de Coquimbo,Coquimbo,IV,4,84.7,30.3,35.7,17.3
+6,5,Región de Valparaíso,Valparaíso,V,5,89.6,31.8,22.5,33.8
+8,6,Región del Libertador Bernardo O'Higgins,Libertador General Bernardo O'Higgins,VI,6,83.9,26.6,34.2,22.6
+9,7,Región del Maule,Maule,VII,7,88.6,21.1,40.6,24.8
+10,8,Región del Bío-Bío,Bío-Bío,VIII,8,85.1,28.6,30.9,24.5
+11,9,Región de La Araucanía,Araucanía,IX,9,81.6,25.9,34.1,18.6
+13,10,Región de Los Lagos,Los Lagos,X,10,86,29.3,27.7,24.7
+14,11,Región de Aysén del Gral.Ibañez del Campo,Aisén del General Carlos Ibáñez del Campo,XI,11,73.1,22.9,36.9,9.4
+15,12,Región de Magallanes y Antártica Chilena,Magallanes y Antártica Chilena,XII,12,93,40.8,21.9,26.1
+7,13,Región Metropolitana de Santiago,Región Metropolitana de Santiago,RM,13,89.9,25.5,30.9,32.2
+12,14,Región de Los Ríos,Los Ríos,XIV,14,81.6,52.5,25.2,0
